@@ -1,4 +1,4 @@
-in this project, I'll be getting into the details of an online sports clothing company's product data. The goal is to come up with recommendations to increase their revenue.
+In this project, I'll be getting into the details of an online sports clothing company's product data. The goal is to come up with recommendations to increase their revenue.
 
 Here are some questions that I thought are important to be answered:
 
